@@ -1,0 +1,20 @@
+# Maven
+target/
+*.log
+
+# IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tesseract Data (Optional: exclude if too large, but we downloaded it so maybe keep it for portability? 23MB is fine)
+# tessdata/
